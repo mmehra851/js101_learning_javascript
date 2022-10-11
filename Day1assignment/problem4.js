@@ -1,0 +1,2 @@
+let reportcard = "\n     [Report Card] \n\n\n < Name    ;      Manish Mehra      >\n < School  ;      V.V.M.I.C         >\n < Grade   ;      A                 >\n < Section ;      A                 >\n < Roll No.;      07                >\n\n\n < SUBJECT               MARKS      >\n < Physics                90        >\n < Mathematics            85        >\n < Chemistry              88        > ";                                                                                                  
+  console.log(reportcard);
